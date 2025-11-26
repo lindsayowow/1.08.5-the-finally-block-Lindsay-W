@@ -85,3 +85,4 @@ processFile("myFile.txt", ""); // ❌ Error: File data cannot be empty.
 processFile("myFile.txt"); // ❌ TypeError: File data must be a string.  
 processFile("myFile.txt", "Hello, world!"); // ✅ Should process successfully.
 processFile("project-task.js", "My coding homework!"); // ✅ Should process successfully.
+//adding a line to test branching
