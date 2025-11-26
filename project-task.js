@@ -86,4 +86,6 @@ processFile("myFile.txt"); // ❌ TypeError: File data must be a string.
 processFile("myFile.txt", "Hello, world!"); // ✅ Should process successfully.
 processFile("project-task.js", "My coding homework!"); // ✅ Should process successfully.
 
-//this is the code on the feature-branch that I want to merge
+
+
+
